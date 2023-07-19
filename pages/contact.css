@@ -1,0 +1,212 @@
+.nav-bg {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+}
+
+.nav-border {
+    border-bottom: 1px solid black;
+}
+
+.header-showfeats-background-panel {
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 90%;
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 8%;
+    border-radius: 5px;
+}
+
+.background {
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    margin-top: 10px;
+    top: 0px;
+}
+
+h1 {
+    text-shadow: -1px 1px 2px white,
+        1px 1px 0 white,
+        1px -1px 0 white,
+        -1px -1px 0 white;
+}
+
+.contact-form-container {
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 50%;
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 8%;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.name-label-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.fname-label-wrapper {
+    padding-right: 6em;
+}
+
+.lname-label-wrapper {
+    padding-left: 6em;
+}
+
+.fname-input-wrapper {
+    width: 40%;
+    margin-top: 1%;
+}
+
+.lname-input-wrapper {
+    width: 40%;
+    margin-top: 1%;
+}
+
+hr {
+    width: 20%;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    background-color: white;
+    
+}
+
+.email-container {
+    display: flex;
+    margin: auto;
+    margin: 3% 0;
+    flex-direction: column;
+}
+
+.email-label-wrapper {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.email-input-wrapper {
+    width: 50%;
+    display: block;
+    align-content: center;
+    margin: auto;
+    margin-top: 1%;
+}
+
+.phone-container {
+    display: flex;
+    margin: auto;
+    margin: 3% 0;
+    flex-direction: column;
+}
+
+.phone-label-wrapper {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.phone-input-wrapper {
+    width: 50%;
+    display: block;
+    align-content: center;
+    margin: auto;
+    margin-top: 1%;
+}
+
+.message-container {
+    display: flex;
+    margin: auto;
+    margin: 3% 0;
+    flex-direction: column;
+}
+
+.message-label-wrapper {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.message-input-wrapper {
+    height: 10em;
+    margin-top: 1%;
+}
+
+.send-button {
+    align-content: center;
+    border-radius: 5px;
+    background-color: white;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    border-top: 1px solid black;
+    text-align: center;
+    margin-top: 4%;
+}
+
+.footer-header-wrapper {
+    margin-top: 15px;
+}
+
+.footer-content-wrapper {
+    font-size: .75em;
+    padding: 5% 0;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 2%;
+    margin-top: 0px;
+}
+
+.footer-image-wrapper {
+    display: block;
+    align-content: center;
+}
+
+.resize-footer-image {
+    width: 325px;
+    height: 225px
+}
+
+a:visited {
+    color: black;
+}
+
+.fig-wrapper-footer {
+    color: black;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.copyright {
+    text-align: center;
+    font-size: .6em;
+    margin-top: 0px;
+    padding-bottom: 2%;
+}
+
+a:link {
+    color: blue;
+}
