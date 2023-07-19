@@ -15,7 +15,7 @@
     margin: auto;
     text-align: center;
     margin-top: 8%;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .background {
@@ -49,6 +49,25 @@
     margin-top: 1%;
 }
 
+.first-panel-img {
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    margin-top: 4%;
+    border-radius: 10px;
+}
+
+.about-me-p1 {
+    text-align: center;
+    margin-top: 4%;
+}
+
+.about-me-p2 {
+    text-align: center;
+    margin-top: 2%;
+}
+
 .main-section-panel {
     border: 1px solid white;
     background-color: rgba(0, 0, 0, 0.3);
@@ -57,7 +76,11 @@
     margin: auto;
     text-align: center;
     margin-top: 4%;
-    border-radius: 5px;
+    border-radius: 10px;
+}
+
+.second-panel-img, .third-panel-img{
+    border-radius: 10px;
 }
 
 h2 {
